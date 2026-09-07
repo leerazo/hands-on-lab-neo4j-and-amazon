@@ -212,4 +212,4 @@ yarn-error.log*
 .mcp.json
 
 # ===== Other =====
-*CONFIG.txt
+*CONFIG*
