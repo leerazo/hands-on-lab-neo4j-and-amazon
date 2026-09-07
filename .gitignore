@@ -204,8 +204,7 @@ yarn-error.log*
 *secrets*.json
 *.pem
 *.key
-*config*.txt
-*CONFIG*.txt
+*CONFIG*
 
 # ===== Claude Code =====
 .claude/
