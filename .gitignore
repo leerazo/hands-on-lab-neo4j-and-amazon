@@ -211,4 +211,5 @@ yarn-error.log*
 # ===== MCP =====
 .mcp.json
 
-CONFIG.txt
+# ===== Other =====
+*CONFIG.txt
