@@ -1,4 +1,3 @@
-*CONFIG.txt
 # ===== Python =====
 __pycache__/
 *.py[cod]
@@ -211,3 +210,5 @@ yarn-error.log*
 
 # ===== MCP =====
 .mcp.json
+
+CONFIG.txt
